@@ -1,0 +1,45 @@
+.active {
+    background-color: #2d3748;
+  }
+.confirmed {
+    background-color: #a0aec0;
+  }
+  
+  .recovered{
+    background-color: #48bb78;
+  }
+  
+  .deaths{
+    background-color: #f56565;
+
+  }
+  .critical {
+    background-color: #ff6307b8;
+  }
+  .criticalText {
+    color: #854b04;
+  }
+
+  .card-font{
+    font-size: 2.25rem;
+  }
+  .textGray600 {
+    color: #718096;
+}
+.textGray700 {
+    color: #4a5568;
+}
+.textGreen800 {
+    color: #276749;
+}
+.textRed700 {
+    color: #c53030;
+}
+
+.titleFont {
+    font-size: 26px !important;
+}
+.titleStatus {
+    font-size: 30px !important;
+}
+  
